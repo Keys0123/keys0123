@@ -1,6 +1,6 @@
 <!-- ====== NEON BANNER ====== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Umesh%20Shakya&fontSize=45&fontColor=00eaff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Umesh%20Shakya%20(KEYS)&fontSize=45&fontColor=00eaff&animation=fadeIn" />
 </p>
 
 <!-- ====== TYPING ANIMATION ====== -->
