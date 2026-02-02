@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Umesh Shakya</h1>
 
-<!--
-**Keys0123/keys0123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?lines=DevOps+Engineer;AWS+%7C+Docker+%7C+Kubernetes;MERN+Stack+Developer&center=true&width=500">
+</p>
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+![AWS](https://img.shields.io/badge/AWS-orange)
+![Docker](https://img.shields.io/badge/Docker-blue)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-blue)
+![React](https://img.shields.io/badge/React-61DAFB)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=Keys0123&show_icons=true)
