@@ -23,6 +23,6 @@ learning:
   - Advanced Kubernetes
   - Observability & Monitoring
 
-🌐 Connect With Me
-<p align="center"> <a href="https://github.com/Keys0123"> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00E6FF" /> </a> <a href="https://linkedin.com"> <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00E6FF" /> </a> </p>
-<!-- ====== FOOTER ====== --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" /> </p> ```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Keys0123/Keys0123/output/github-contribution-grid-snake-dark.svg" />
+</p>
