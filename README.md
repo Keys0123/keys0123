@@ -5,7 +5,7 @@
 
 <!-- ====== TYPING ANIMATION ====== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00E6FF&size=26&center=true&vCenter=true&width=650&lines=Hi+👋+I'm+Umesh+Shakya;DevOps+Engineer+%7C+MERN+Developer;AWS+%7C+Docker+%7C+Kubernetes;CI%2FCD+%7C+Cloud+Automation;Building+Scalable+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00E6FF&size=26&center=true&vCenter=true&width=650&lines=Hi+👋+I'm+Umesh+Shakya;DevOps+Engineer;AWS+%7C+Docker+%7C+Kubernetes;CI%2FCD+%7C+Cloud+Automation;Building+Scalable+Systems" />
 </p>
 
 ---
